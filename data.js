@@ -6,33 +6,24 @@
 
 
 const dataEl = `
-     {"aaa": {
-    "number":"117",
-    "language":"en",
-    "insult":"Some cause happiness wherever they go; others, whenever they go.",
-    "created":"2020-11-22 23:00:15",
-    "shown":"45712",
-    "createdby":"",
-    "active":"1",
-    "comment":"http:\/\/www.mirror.co.uk\/news\/weird-news\/worlds-20-most-bizarre-insults-7171396"
-      },   
-    "bbb":{
-    "number":"118",
-    "language":"en",
-    "insult":"Some cause happiness wherever they go; others, whenever they go.",
-    "created":"2020-11-22 23:00:15",
-    "shown":"45712",
-    "createdby":"",
-    "active":"2",
-    "comment":"http:\/\/www.mirror.co.uk\/news\/weird-news\/worlds-20-most-bizarre-insults-7171396"
-    },  
+    {"aaa": {
+        "breed": "Abyssinian",
+        "country": "Ethiopia",
+        "origin": "Natural/Standard",
+        "coat": "Short",
+        "pattern": "Ticked"
+      },
+    "bbb": {
+        "breed": "Aegean",
+        "country": "Greece",
+        "origin": "Natural/Standard",
+        "coat": "Semi-long",
+        "pattern": "Bi- or tri-colored"
+      },
     "ccc":{
-    "number":"119",
-    "language":"en",
-    "insult":"Some cause happiness wherever they go; others, whenever they go.",
-    "created":"2020-10-22 23:00:15",
-    "shown":"45712",
-    "createdby":"",
-    "active":"0",
-    "comment":"http:\/\/www.mirror.co.uk\/news\/weird-news\/worlds-20-most-bizarre-insults-7171396"
-}}`
+        "breed": "American Curl",
+        "country": "United States",
+        "origin": "Mutation",
+        "coat": "Short/Long",
+        "pattern": "All"
+      }}`
